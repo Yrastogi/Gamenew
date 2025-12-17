@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gamenew/static/css/main.bec00a6b.css",
+    "main.js": "/Gamenew/static/js/main.884e037a.js",
+    "index.html": "/Gamenew/index.html",
+    "main.bec00a6b.css.map": "/Gamenew/static/css/main.bec00a6b.css.map",
+    "main.884e037a.js.map": "/Gamenew/static/js/main.884e037a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec00a6b.css",
+    "static/js/main.884e037a.js"
+  ]
+}
